@@ -1,0 +1,11 @@
+base
+knitr
+devtools
+reshape2
+NLP
+tm
+magrittr
+SnowballC
+RColorBrewer
+wordcloud
+rvest
